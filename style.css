@@ -1,0 +1,31 @@
+button {
+    margin-right: 20px;
+}
+
+hr {
+    margin: 5px;
+}
+
+.article {
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    margin: 15px;
+    padding: 5px;
+}
+
+.article-header {
+    font-size: 3em;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: white;
+    text-align: center;
+}
+
+.article-text {
+    padding: 15px;
+}
+
+.btn-block {
+    margin: 10px auto;
+    text-align: center;
+}
