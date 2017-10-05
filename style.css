@@ -1,3 +1,7 @@
+body {
+    background-color: #B9B0BF;
+}
+
 button {
     margin-right: 20px;
 }
@@ -7,18 +11,19 @@ hr {
 }
 
 .article {
-    border: 1px solid #dddddd;
+    background-color: #DFE2F2;
+    border: 1px solid #697C8C;
     border-radius: 4px;
     margin: 15px;
-    padding: 5px;
 }
 
 .article-header {
     font-size: 3em;
     text-transform: uppercase;
     font-weight: bold;
-    background-color: white;
+    background-color: #697C8C;
     text-align: center;
+    color: #DFE2F2;
 }
 
 .article-text {

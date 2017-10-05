@@ -14,7 +14,6 @@ for ( let i = 0; i < ARTICLES_NUM; i++ ) {
     text.textContent = faker.lorem.paragraphs( 5 );
 
     article.appendChild( header );
-    article.appendChild( document.createElement( 'hr' ) );
     article.appendChild( text );
 
     container.appendChild( article );
